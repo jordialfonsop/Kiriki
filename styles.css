@@ -1,0 +1,62 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 3%;
+}
+
+.button {
+  text-align: center;
+  margin: 5%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #F0A500 !important;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 8rem;
+  color: #FF0000 !important;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 8rem;
+  color: #FF0000 !important;
+}
+
+
+p {
+  font-size: 1.3rem;
+  color: #FF0000 !important;
+  font-family: 'Montserrat', sans-serif !important;
+}
+
+img {
+  width: 65%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #FF0000 !important;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif !important;
+
+}
+
+@media (max-width: 1028px) {
+  p {
+    margin: 10%;
+  }
+  
+  
+}
